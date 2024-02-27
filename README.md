@@ -16,13 +16,10 @@ Follow these instruction to run this project
 - You will see "API_KEY" variable , then paste your api key that variable value.
 
  let API_KEY = null
-
-    ||
-    ||
-   \  /
-    \/
-
-let API_KEY = "your own api key"
+ 
+ ( change like that )
+ 
+ let API_KEY = "your own api key"
 
 
 ## Step Two ##
